@@ -3,7 +3,7 @@
 # <a href="https://axiaoh.github.io/xiaohanfile/">前往文件下载站</a>
 
 # 网站尚未建立完毕
-## IDM中文特别版（来自睿派克）<a href="">下载</a>
+## IDM中文特别版<a href="">下载</a>
 ## Bandizip <a href="">下载</a>
 ## Everything <a href="">下载</a>
 ## Office Tool <a href="">下载</a>
