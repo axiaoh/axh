@@ -8,3 +8,4 @@
 ## Everything <a href="">下载</a>
 ## Office Tool <a href="">下载</a>
 ## TeamViewer <a href="">下载</a>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
