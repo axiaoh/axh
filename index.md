@@ -17,6 +17,4 @@ runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"
 ## Edgeless v4.0.7 Beta<a href="https://down.edgeless.top/A:?image_mode=0">下载</a>
 ## TeamViewer <a href="https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe">下载</a>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-### 友情链接 <a href="http://file.xiaiisme.club/">文件站</a><a href="https://home.edgeless.top/">Edgeless</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="http://chat.xiaiisme.club/">闲聊站</a>
-
-
+### 友情链接 <a href="http://apps.xiaiisme.club/">软件站</a><a href="http://file.xiaiisme.club/">文件站</a><a href="http://chat.xiaiisme.club/">闲聊站</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="https://home.edgeless.top/">Edgeless</a>
