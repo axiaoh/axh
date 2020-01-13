@@ -10,7 +10,7 @@ runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"
 
 # 网站尚未建立完毕
 ## IDM中文特别版<a href="https://www.lanzous.com/i8e4lli">下载</a>
-## Bandizip <a href="http://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE">官网下载</a>
+## Bandizip <a href="http://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE">官网下载</a>   <a href="https://www.bandisoft.com/bandizip/">官网</a>
 ## Bandizip V7.0 Beta<a href="http://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE?4">官网下载</a>
 ## Everything <a href="https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe">官网下载</a>
 ## Office Tool <a href="https://download.coolhub.top/Office%20Tool%20v7.4.zip">官网下载</a>
