@@ -10,11 +10,12 @@ runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"
 
 # 网站尚未建立完毕
 ## IDM中文特别版<a href="https://www.lanzous.com/i8e4lli">下载</a>
-## Bandizip <a href="http://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE">下载</a>
-## Bandizip V7.0 Beta<a href="http://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE?4">下载</a>
-## Everything <a href="https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe">下载</a>
-## Office Tool <a href="https://download.coolhub.top/Office%20Tool%20v7.4.zip">下载</a>
-## Edgeless v4.0.7 Beta<a href="https://down.edgeless.top/A:?image_mode=0">下载</a>
-## TeamViewer <a href="https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe">下载</a>
+## Bandizip <a href="http://dl.bandisoft.com/bandizip/BANDIZIP-SETUP.EXE">官网下载</a>
+## Bandizip V7.0 Beta<a href="http://dl.bandisoft.com/bandizip.online/BANDIZIP-SETUP-ONLINE.EXE?4">官网下载</a>
+## Everything <a href="https://www.voidtools.com/Everything-1.4.1.935.x86-Setup.exe">官网下载</a>
+## Office Tool <a href="https://download.coolhub.top/Office%20Tool%20v7.4.zip">官网下载</a>
+## Edgeless Beta<a href="https://down.edgeless.top/A:?image_mode=0">官网下载</a>
+## TeamViewer <a href="https://dl.teamviewer.cn/download/version_15x/TeamViewer_Setup.exe">官网下载</a>
+## WinRAR 安卓版 <a href="https://www.lanzous.com/i8j5egh">下载</a>
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 ### 友情链接 <a href="http://apps.xiaiisme.club/">软件站</a><a href="http://file.xiaiisme.club/">文件站</a><a href="http://chat.xiaiisme.club/">闲聊站</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="https://home.edgeless.top/">Edgeless</a>
